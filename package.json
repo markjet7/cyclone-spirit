@@ -1,0 +1,22 @@
+{
+    "name": "cyclone-spirit",
+    "displayName": "cyclone-spirit",
+    "description": "Cyclone spirit colors",
+    "version": "0.0.1",
+    "publisher": "markmw",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyclone Spirit",
+                "uiTheme": "vs",
+                "path": "./themes/Cyclone Spirit-color-theme.json"
+            }
+        ]
+    }
+}
